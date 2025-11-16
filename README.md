@@ -1,6 +1,6 @@
-# Homework 6
+# Homework 06, Part 1: Pandas and GitHub
 
-**This is PT _putting in effort_ to make Homework 6 pretty ✨✨✨**
+**This is PT _putting in effort_ to make Soma's Homework 6 pretty ✨✨✨**
 
 ### In this ~~folder~~ repo, you will find:
 
